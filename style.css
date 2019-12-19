@@ -124,7 +124,7 @@ p{
     color:white;
 }
 
-.readmore1 a, #readless1 a, .readmore2 a, #readless2 a, .readmore3 a, #readless3 a, .readmore4 a, #readless4 a, .readmore5 a, #readless5 a, .readmore6 a, #readless6 a {
+.readmore1 a, #readless1 a, .readmore2 a, #readless2 a, .readmore3 a, #readless3 a, .readmore4 a, #readless4 a, .readmore5 a, #readless5 a, .readmore6 a, #readless6 a, .readmore7 a, #readless7 a {
   font-family: 'monda', sans-serif;
   text-transform: uppercase;
   text-decoration: none;
@@ -246,7 +246,7 @@ p{
     display: none;
   }
 
-  .mySlides1, .mySlides2 , .mySlides3 ,.mySlides4, .mySlides5, .mySlides6{display: none}
+  .mySlides1, .mySlides2 , .mySlides3 ,.mySlides4, .mySlides5, .mySlides6, .mySlides7{display: none}
 img {
   vertical-align: middle;
   max-height:1000px;
